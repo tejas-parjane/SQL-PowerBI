@@ -1,0 +1,26 @@
+# Office lock files
+~$*.xlsx
+~$*.xlsm
+~$*.docx
+~$*.pptx
+~$*.pbix
+
+# Power BI / Excel temp output
+*.pbix.temp
+*.pbit.tmp
+*.xlsx.tmp
+
+# OS
+.DS_Store
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# Editors
+.idea/
+.vscode/
+*.swp
+*~
+
+# Logs
+*.log
